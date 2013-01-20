@@ -1,23 +1,31 @@
 Spring Physics Demo
 ===================
 
+This is just an upload of the project found [here](http://tniechciol.ca/Projects/SpringPhysics/) so that it is easier to browse.
+
 Created by
 ----------
 Terrance Niechciol
+
 TNiechciol@gmail.com
+
 http://TNiechciol.ca
 
 Controls
 --------
 A       -> Rotate counter-clockwise
+
 D       -> Rotate clockwise
+
 Shift   -> Weaken springs
+
 Space   -> Stiffen springs
 
-To make the game you need g++ and SFML
 
 Building the game
 -----------------
+To make the game you need g++ and SFML
+
 ### Using g++ directly
 Make sure you have g++ (MinGW on Windows, build-essential on Linux), and SFML and enter:
 ```

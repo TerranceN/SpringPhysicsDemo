@@ -1,0 +1,5 @@
+obj/*
+main.exe
+main.lin_exe
+src/tags
+src/.clang_complete

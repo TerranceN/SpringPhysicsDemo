@@ -1,7 +1,7 @@
 Spring Physics Demo
 ===================
 
-This is just an upload of the project found [here](http://tniechciol.ca/Projects/SpringPhysics/) so that it is easier to browse.
+This is just an upload of the project found [here](http://eat.sleep.build/Projects/SpringPhysics/) so that it is easier to browse.
 
 Created by
 ----------
@@ -9,7 +9,7 @@ Terrance Niechciol
 
 TNiechciol@gmail.com
 
-http://TNiechciol.ca
+http://eat.sleep.build
 
 Controls
 --------
